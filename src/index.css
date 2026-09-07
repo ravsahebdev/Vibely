@@ -29,7 +29,7 @@
 }
 
 .auth-input-container:focus-within {
-  border-color: rgba(168, 85, 247, 0.7);
+  border-color: rgba(168, 86, 247, 0.7);
   box-shadow: 0 0 0 1px rgba(168, 86, 247, 0.4), 0 0 20px rgba(168, 85, 247, 0.15);
 }
 
