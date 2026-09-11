@@ -15,7 +15,7 @@
 
 /* Custom glowing card border effect */
 .glass-auth-card {
-  background: rgba(13, 11, 24, 0.85);
+  background: rgba(13, 11, 24, 0.86);
   backdrop-filter: blur(24px);
   -webkit-backdrop-filter: blur(24px);
   border: 1px solid rgba(168, 85, 247, 0.22);
